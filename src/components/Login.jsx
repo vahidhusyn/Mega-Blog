@@ -41,7 +41,7 @@ function Login() {
                     Don&apos;t have any account?&nbsp;
                     <Link
                         to="/signup"
-                        className="font-medium text-primary transition-all duration-200 hover:underline"
+                        className="font-medium text-secondary transition-all duration-200 hover:underline"
                     >
                         Sign Up
                     </Link>
